@@ -1,0 +1,26 @@
+Generating PIN in child and sending to parent...
+Parent received PIN '7053' from child.
+
+Generating PIN in child and sending to parent...
+Parent received PIN '2035' from child.
+
+Generating PIN in child and sending to parent...
+Parent received PIN '6342' from child.
+
+Generating PIN in child and sending to parent...
+Parent received PIN '2405' from child.
+
+Generating PIN in child and sending to parent...
+Parent received PIN '4054' from child.
+
+generating PIN in child and sending to parent...
+Parent received PIN '4301' from child.
+
+Generating PIN in child and sending to parent...
+
+
+
+Enter a positve integer: 2
+child(1272) send value: 1
+parent(1271) received value: 1
+that integer is prime number

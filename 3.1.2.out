@@ -1,0 +1,4 @@
+Enter a string :
+^CThis is a special signal handler for SIGINT
+^ZThis is a special signal handler for SIGTSTP
+^\This is a special signal handler for SIGQUIT
